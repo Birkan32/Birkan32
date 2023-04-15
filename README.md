@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: birkan_polat25@hotmail.com
 - ⚡ Fun fact: HTML-CSS-BOOTSTRAP
-
