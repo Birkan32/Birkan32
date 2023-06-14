@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on project
 - 💬 Ask me about anything
 - 📫 How to reach me: birkan_polat25@hotmail.com
-- ⚡ Fun fact: HTML-CSS-BOOTSTRAP
+- ⚡ Fun fact: HTML-CSS-BOOTSTRAP-JS
